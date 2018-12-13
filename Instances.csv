@@ -1,0 +1,7 @@
+Instance,DeviceId,InstanceFirstSeenDateTime
+InstanceA1,DeviceA,"Nov 1, 2018 13:45:00"
+InstanceA2,DeviceA,"Dec 2, 2018 14:45:00"
+InstanceA3,DeviceA,"Dec 9, 2018 14:45:00"
+InstanceB1,DeviceB,"Nov 1, 2018 15:45:00"
+InstanceB2,DeviceB,"Dec 4, 2018 16:45:00"
+InstanceCX,DeviceC,"Dec 4, 2018 00:00:00"
